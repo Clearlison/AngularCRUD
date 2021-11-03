@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 2,
-      "name": "Notebook MAC Pro",
+      "name": "Notebook MAC Pro A",
       "price": 12000
     },
     {
@@ -19,6 +19,11 @@
       "name": "Caneta BIC Azul",
       "price": "6.00",
       "id": 5
+    },
+    {
+      "name": "Caneca",
+      "price": "10.89",
+      "id": 6
     }
   ]
 }

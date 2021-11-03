@@ -6,10 +6,10 @@ table {
     margin-right: 10px;
 }
 
-i.edit {
+.edit > i {
     color: #d9cd26;
 }
 
-i.delete {
+.delete > i {
     color: #e35e6b;
 }
